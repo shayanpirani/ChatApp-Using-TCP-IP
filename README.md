@@ -1,1 +1,3 @@
 # ChatApp-Using-TCP-IP
+
+As part of our Computer Network course, we developed a client-server chat application using Express.js, Node.js, and the socket.io framework. The application allows multiple users to connect to a single server, creating a chat room where they can communicate in real-time. To access the application, users can open the index.html and server.js files on their local host using port 3000 and a web browser. Multiple users can connect to the server at the same time, and the server stores all data related to the chats and users. To connect as multiple users, simply open multiple tabs on your web browser and connect to the server.
